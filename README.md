@@ -1,2 +1,0 @@
-# ForMyLove
-Sample Greetings
